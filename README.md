@@ -13,3 +13,5 @@ Secondly, Conduct analysis and derive meaningful insights that can help policyma
 - ⁠Factors influencing access, such as education, income levels, or infrastructure.
 
 3. Model Selection and Evaluation: Train and evaluate different machine learning models to predict bank account ownership and use scoring metrics  to evaluate the performance of your models.
+
+
